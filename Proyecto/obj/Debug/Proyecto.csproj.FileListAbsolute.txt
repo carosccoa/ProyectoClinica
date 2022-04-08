@@ -1,0 +1,146 @@
+D:\Visual Studio\Proyecto\Proyecto\bin\roslyn\csc.exe
+D:\Visual Studio\Proyecto\Proyecto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Visual Studio\Proyecto\Proyecto\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Visual Studio\Proyecto\Proyecto\bin\roslyn\System.Collections.Immutable.dll
+D:\Visual Studio\Proyecto\Proyecto\bin\Proyecto.dll.config
+D:\Visual Studio\Proyecto\Proyecto\bin\Proyecto.dll
+D:\Visual Studio\Proyecto\Proyecto\bin\Proyecto.pdb
+D:\Visual Studio\Proyecto\Proyecto\bin\roslyn\csc.exe.config
+D:\Visual Studio\Proyecto\Proyecto\bin\roslyn\csc.rsp
+D:\Visual Studio\Proyecto\Proyecto\bin\roslyn\csi.exe
+D:\Visual Studio\Proyecto\Proyecto\bin\roslyn\csi.exe.config
+D:\Visual Studio\Proyecto\Proyecto\bin\roslyn\csi.rsp
+D:\Visual Studio\Proyecto\Proyecto\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Visual Studio\Proyecto\Proyecto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Visual Studio\Proyecto\Proyecto\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Visual Studio\Proyecto\Proyecto\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Visual Studio\Proyecto\Proyecto\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Visual Studio\Proyecto\Proyecto\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Visual Studio\Proyecto\Proyecto\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Visual Studio\Proyecto\Proyecto\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Visual Studio\Proyecto\Proyecto\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Visual Studio\Proyecto\Proyecto\bin\roslyn\System.AppContext.dll
+D:\Visual Studio\Proyecto\Proyecto\bin\roslyn\System.Console.dll
+D:\Visual Studio\Proyecto\Proyecto\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Visual Studio\Proyecto\Proyecto\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Visual Studio\Proyecto\Proyecto\bin\roslyn\System.IO.Compression.dll
+D:\Visual Studio\Proyecto\Proyecto\bin\roslyn\System.IO.FileSystem.dll
+D:\Visual Studio\Proyecto\Proyecto\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Visual Studio\Proyecto\Proyecto\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Visual Studio\Proyecto\Proyecto\bin\roslyn\System.IO.Pipes.dll
+D:\Visual Studio\Proyecto\Proyecto\bin\roslyn\System.Reflection.Metadata.dll
+D:\Visual Studio\Proyecto\Proyecto\bin\roslyn\System.Security.AccessControl.dll
+D:\Visual Studio\Proyecto\Proyecto\bin\roslyn\System.Security.Claims.dll
+D:\Visual Studio\Proyecto\Proyecto\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Visual Studio\Proyecto\Proyecto\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Visual Studio\Proyecto\Proyecto\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Visual Studio\Proyecto\Proyecto\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Visual Studio\Proyecto\Proyecto\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Visual Studio\Proyecto\Proyecto\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Visual Studio\Proyecto\Proyecto\bin\roslyn\System.ValueTuple.dll
+D:\Visual Studio\Proyecto\Proyecto\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Visual Studio\Proyecto\Proyecto\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Visual Studio\Proyecto\Proyecto\bin\roslyn\System.Xml.XPath.dll
+D:\Visual Studio\Proyecto\Proyecto\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Visual Studio\Proyecto\Proyecto\bin\roslyn\vbc.exe
+D:\Visual Studio\Proyecto\Proyecto\bin\roslyn\vbc.exe.config
+D:\Visual Studio\Proyecto\Proyecto\bin\roslyn\vbc.rsp
+D:\Visual Studio\Proyecto\Proyecto\bin\roslyn\VBCSCompiler.exe
+D:\Visual Studio\Proyecto\Proyecto\bin\roslyn\VBCSCompiler.exe.config
+D:\Visual Studio\Proyecto\Proyecto\bin\Antlr3.Runtime.dll
+D:\Visual Studio\Proyecto\Proyecto\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Visual Studio\Proyecto\Proyecto\bin\AspNet.ScriptManager.jQuery.dll
+D:\Visual Studio\Proyecto\Proyecto\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Visual Studio\Proyecto\Proyecto\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Visual Studio\Proyecto\Proyecto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Visual Studio\Proyecto\Proyecto\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Visual Studio\Proyecto\Proyecto\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Visual Studio\Proyecto\Proyecto\bin\Microsoft.Web.Infrastructure.dll
+D:\Visual Studio\Proyecto\Proyecto\bin\Newtonsoft.Json.dll
+D:\Visual Studio\Proyecto\Proyecto\bin\System.Web.Optimization.dll
+D:\Visual Studio\Proyecto\Proyecto\bin\WebGrease.dll
+D:\Visual Studio\Proyecto\Proyecto\bin\System.Web.Optimization.xml
+D:\Visual Studio\Proyecto\Proyecto\bin\Newtonsoft.Json.xml
+D:\Visual Studio\Proyecto\Proyecto\bin\Antlr3.Runtime.pdb
+D:\Visual Studio\Proyecto\Proyecto\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Visual Studio\Proyecto\Proyecto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Visual Studio\Proyecto\Proyecto\bin\es\System.Web.Optimization.resources.dll
+D:\Visual Studio\Proyecto\Proyecto\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+D:\Visual Studio\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CopyComplete
+D:\Visual Studio\Proyecto\Proyecto\obj\Debug\Proyecto.dll
+D:\Visual Studio\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+D:\Visual Studio\Proyecto\Proyecto\obj\Debug\Proyecto.csprojAssemblyReference.cache
+D:\Proyecto\Proyecto\bin\Proyecto.dll.config
+D:\Proyecto\Proyecto\bin\Proyecto.dll
+D:\Proyecto\Proyecto\bin\Proyecto.pdb
+D:\Proyecto\Proyecto\bin\roslyn\csc.exe
+D:\Proyecto\Proyecto\bin\roslyn\csc.exe.config
+D:\Proyecto\Proyecto\bin\roslyn\csc.rsp
+D:\Proyecto\Proyecto\bin\roslyn\csi.exe
+D:\Proyecto\Proyecto\bin\roslyn\csi.exe.config
+D:\Proyecto\Proyecto\bin\roslyn\csi.rsp
+D:\Proyecto\Proyecto\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Proyecto\Proyecto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Proyecto\Proyecto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Proyecto\Proyecto\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Proyecto\Proyecto\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Proyecto\Proyecto\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Proyecto\Proyecto\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Proyecto\Proyecto\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Proyecto\Proyecto\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Proyecto\Proyecto\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Proyecto\Proyecto\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Proyecto\Proyecto\bin\roslyn\System.AppContext.dll
+D:\Proyecto\Proyecto\bin\roslyn\System.Collections.Immutable.dll
+D:\Proyecto\Proyecto\bin\roslyn\System.Console.dll
+D:\Proyecto\Proyecto\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Proyecto\Proyecto\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Proyecto\Proyecto\bin\roslyn\System.IO.Compression.dll
+D:\Proyecto\Proyecto\bin\roslyn\System.IO.FileSystem.dll
+D:\Proyecto\Proyecto\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Proyecto\Proyecto\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Proyecto\Proyecto\bin\roslyn\System.IO.Pipes.dll
+D:\Proyecto\Proyecto\bin\roslyn\System.Reflection.Metadata.dll
+D:\Proyecto\Proyecto\bin\roslyn\System.Security.AccessControl.dll
+D:\Proyecto\Proyecto\bin\roslyn\System.Security.Claims.dll
+D:\Proyecto\Proyecto\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Proyecto\Proyecto\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Proyecto\Proyecto\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Proyecto\Proyecto\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Proyecto\Proyecto\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Proyecto\Proyecto\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Proyecto\Proyecto\bin\roslyn\System.ValueTuple.dll
+D:\Proyecto\Proyecto\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Proyecto\Proyecto\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Proyecto\Proyecto\bin\roslyn\System.Xml.XPath.dll
+D:\Proyecto\Proyecto\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Proyecto\Proyecto\bin\roslyn\vbc.exe
+D:\Proyecto\Proyecto\bin\roslyn\vbc.exe.config
+D:\Proyecto\Proyecto\bin\roslyn\vbc.rsp
+D:\Proyecto\Proyecto\bin\roslyn\VBCSCompiler.exe
+D:\Proyecto\Proyecto\bin\roslyn\VBCSCompiler.exe.config
+D:\Proyecto\Proyecto\bin\Antlr3.Runtime.dll
+D:\Proyecto\Proyecto\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Proyecto\Proyecto\bin\AspNet.ScriptManager.jQuery.dll
+D:\Proyecto\Proyecto\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Proyecto\Proyecto\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Proyecto\Proyecto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Proyecto\Proyecto\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Proyecto\Proyecto\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Proyecto\Proyecto\bin\Microsoft.Web.Infrastructure.dll
+D:\Proyecto\Proyecto\bin\Newtonsoft.Json.dll
+D:\Proyecto\Proyecto\bin\System.Web.Optimization.dll
+D:\Proyecto\Proyecto\bin\WebGrease.dll
+D:\Proyecto\Proyecto\bin\System.Web.Optimization.xml
+D:\Proyecto\Proyecto\bin\Newtonsoft.Json.xml
+D:\Proyecto\Proyecto\bin\Antlr3.Runtime.pdb
+D:\Proyecto\Proyecto\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Proyecto\Proyecto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Proyecto\Proyecto\bin\es\System.Web.Optimization.resources.dll
+D:\Proyecto\Proyecto\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+D:\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.AssemblyReference.cache
+D:\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+D:\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CopyComplete
+D:\Proyecto\Proyecto\obj\Debug\Proyecto.dll
+D:\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
